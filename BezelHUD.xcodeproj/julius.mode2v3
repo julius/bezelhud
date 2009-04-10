@@ -216,7 +216,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>C6E84EBD0E02938E00D7AE67</string>
+						<string>C6F1BF830F8ED3DE00824AB6</string>
 						<key>history</key>
 						<array>
 							<string>C6E84E880E028C2000D7AE67</string>
@@ -228,26 +228,20 @@
 							<string>C6E84EAC0E028E8000D7AE67</string>
 							<string>C6E84EAE0E028E8000D7AE67</string>
 							<string>C6E84EB90E028EEA00D7AE67</string>
-							<string>C6E84EAD0E028E8000D7AE67</string>
+							<string>C6E84EBD0E02938E00D7AE67</string>
 						</array>
 						<key>prevStack</key>
 						<array>
 							<string>C6E84E8F0E028C2000D7AE67</string>
 							<string>C6E84E900E028C2000D7AE67</string>
 							<string>C6E84E910E028C2000D7AE67</string>
-							<string>C6E84E920E028C2000D7AE67</string>
 							<string>C6E84E930E028C2000D7AE67</string>
 							<string>C6E84E940E028C2000D7AE67</string>
 							<string>C6E84E950E028C2000D7AE67</string>
 							<string>C6E84E960E028C2000D7AE67</string>
-							<string>C6E84E970E028C2000D7AE67</string>
-							<string>C6E84E980E028C2000D7AE67</string>
-							<string>C6E84EA00E028D0900D7AE67</string>
-							<string>C6E84EB00E028E8000D7AE67</string>
 							<string>C6E84EB10E028E8000D7AE67</string>
 							<string>C6E84EB20E028E8000D7AE67</string>
 							<string>C6E84EB30E028E8000D7AE67</string>
-							<string>C6E84EBA0E028EEA00D7AE67</string>
 						</array>
 					</dict>
 					<key>SplitCount</key>
@@ -352,7 +346,7 @@
 										</array>
 									</array>
 									<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-									<string>{{0, 478}, {336, 552}}</string>
+									<string>{{0, 519}, {336, 552}}</string>
 								</dict>
 								<key>PBXTopSmartGroupGIDs</key>
 								<array/>
@@ -512,8 +506,8 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>C6E84E860E028C2000D7AE67</string>
-				<string>C6E84E870E028C2000D7AE67</string>
+				<string>C6F1BF810F8ED3DE00824AB6</string>
+				<string>C6F1BF820F8ED3DE00824AB6</string>
 				<string>1C9437FD063B20B00039CFAC</string>
 				<string>1C9437FE063B20B00039CFAC</string>
 				<string>1C9437FF063B20B00039CFAC</string>
@@ -548,7 +542,6 @@
 	<integer>0</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C530D57069F1CE1000CFCEE</string>
 		<string>1C530D52069F1CE1000CFCEE</string>
 		<string>C63A33B70DFB57130082454A</string>
 		<string>/Users/julius/Code/qs/BezelHUD/BezelHUD.xcodeproj</string>
@@ -729,8 +722,6 @@
 							<string>158pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -770,7 +761,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C530D52069F1CE1000CFCEE</string>
-				<string>C6E84E410E02821700D7AE67</string>
+				<string>C6F1BF840F8ED3DE00824AB6</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
