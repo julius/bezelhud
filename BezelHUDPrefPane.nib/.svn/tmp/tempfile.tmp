@@ -1,0 +1,3 @@
+<S:update-report send-all="true" xmlns:S="svn:">
+<S:src-path>http://blacktree.textdriven.com/svn/QSRadialMenus/trunk/QSRadialMenuPrefPane.nib</S:src-path><S:update-target>keyedobjects.nib</S:update-target><S:entry rev="142"></S:entry>
+</S:update-report>

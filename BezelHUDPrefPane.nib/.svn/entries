@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="183"
+   name=""
+   committed-date="2005-12-16T21:59:58.507757Z"
+   url="http://blacktree.textdriven.com/svn/QSRadialMenus/trunk/QSRadialMenuPrefPane.nib"
+   last-author="alcor"
+   kind="dir"
+   uuid="7f91611e-4a03-0410-af49-e433babf8d56"
+   revision="193"/>
+<entry
+   committed-rev="183"
+   name="info.nib"
+   text-time="2005-12-16T21:47:08.000000Z"
+   committed-date="2005-12-16T21:59:58.507757Z"
+   checksum="e31f69030dd86b4bffc010b60a989cbf"
+   last-author="alcor"
+   kind="file"
+   prop-time="2005-12-16T18:05:57.000000Z"/>
+<entry
+   committed-rev="183"
+   name="keyedobjects.nib"
+   text-time="2005-12-16T21:47:08.000000Z"
+   committed-date="2005-12-16T21:59:58.507757Z"
+   checksum="8f19d49167dfd0976136e66f94d1edbf"
+   last-author="alcor"
+   kind="file"
+   prop-time="2005-12-16T18:05:57.000000Z"/>
+<entry
+   committed-rev="31"
+   name="classes.nib"
+   text-time="2005-12-16T21:47:08.000000Z"
+   committed-date="2005-11-08T05:32:47.890381Z"
+   checksum="9bb23e7c544f4557344e66245eafac17"
+   last-author="aeiser"
+   kind="file"
+   prop-time="2005-11-08T12:06:07.000000Z"/>
+</wc-entries>
