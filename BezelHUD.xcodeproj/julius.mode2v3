@@ -197,70 +197,7 @@
 	<key>Notifications</key>
 	<array/>
 	<key>OpenEditors</key>
-	<array>
-		<dict>
-			<key>Content</key>
-			<dict>
-				<key>PBXProjectModuleGUID</key>
-				<string>C63A33B70DFB57130082454A</string>
-				<key>PBXProjectModuleLabel</key>
-				<string>BlurSetting.h</string>
-				<key>PBXSplitModuleInNavigatorKey</key>
-				<dict>
-					<key>Split0</key>
-					<dict>
-						<key>PBXProjectModuleGUID</key>
-						<string>C63A33CA0DFB5FBC0082454A</string>
-						<key>PBXProjectModuleLabel</key>
-						<string>BlurSetting.h</string>
-						<key>_historyCapacity</key>
-						<integer>0</integer>
-						<key>bookmark</key>
-						<string>C6F1BF830F8ED3DE00824AB6</string>
-						<key>history</key>
-						<array>
-							<string>C6E84E880E028C2000D7AE67</string>
-							<string>C6E84E890E028C2000D7AE67</string>
-							<string>C6E84E8A0E028C2000D7AE67</string>
-							<string>C6E84E8B0E028C2000D7AE67</string>
-							<string>C6E84E8C0E028C2000D7AE67</string>
-							<string>C6E84E9F0E028D0900D7AE67</string>
-							<string>C6E84EAC0E028E8000D7AE67</string>
-							<string>C6E84EAE0E028E8000D7AE67</string>
-							<string>C6E84EB90E028EEA00D7AE67</string>
-							<string>C6E84EBD0E02938E00D7AE67</string>
-						</array>
-						<key>prevStack</key>
-						<array>
-							<string>C6E84E8F0E028C2000D7AE67</string>
-							<string>C6E84E900E028C2000D7AE67</string>
-							<string>C6E84E910E028C2000D7AE67</string>
-							<string>C6E84E930E028C2000D7AE67</string>
-							<string>C6E84E940E028C2000D7AE67</string>
-							<string>C6E84E950E028C2000D7AE67</string>
-							<string>C6E84E960E028C2000D7AE67</string>
-							<string>C6E84EB10E028E8000D7AE67</string>
-							<string>C6E84EB20E028E8000D7AE67</string>
-							<string>C6E84EB30E028E8000D7AE67</string>
-						</array>
-					</dict>
-					<key>SplitCount</key>
-					<string>1</string>
-				</dict>
-				<key>StatusBarVisibility</key>
-				<true/>
-			</dict>
-			<key>Geometry</key>
-			<dict>
-				<key>Frame</key>
-				<string>{{0, 20}, {820, 542}}</string>
-				<key>PBXModuleWindowStatusBarHidden2</key>
-				<false/>
-				<key>RubberWindowFrame</key>
-				<string>15 190 820 583 0 0 1280 778 </string>
-			</dict>
-		</dict>
-	</array>
+	<array/>
 	<key>PerspectiveWidths</key>
 	<array>
 		<integer>-1</integer>
@@ -333,20 +270,32 @@
 										<string>0259C582FE90428111CA0C5A</string>
 										<string>1ED78706FE9D4A0611CA0C5A</string>
 										<string>2E58F364FFB232C311CA0CBA</string>
-										<string>7F35FF3C07F9ACD90056051D</string>
-										<string>7F35FF3E07F9ACD90056051D</string>
-										<string>7FFA8E9D0816CCCA00A858CD</string>
 									</array>
 									<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 									<array>
 										<array>
-											<integer>50</integer>
-											<integer>49</integer>
+											<integer>52</integer>
+											<integer>51</integer>
+											<integer>0</integer>
+										</array>
+										<array>
+											<integer>53</integer>
+											<integer>51</integer>
+											<integer>0</integer>
+										</array>
+										<array>
+											<integer>54</integer>
+											<integer>51</integer>
+											<integer>0</integer>
+										</array>
+										<array>
+											<integer>55</integer>
+											<integer>51</integer>
 											<integer>0</integer>
 										</array>
 									</array>
 									<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-									<string>{{0, 519}, {336, 552}}</string>
+									<string>{{0, 434}, {336, 552}}</string>
 								</dict>
 								<key>PBXTopSmartGroupGIDs</key>
 								<array/>
@@ -506,8 +455,8 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>C6F1BF810F8ED3DE00824AB6</string>
-				<string>C6F1BF820F8ED3DE00824AB6</string>
+				<string>C63BD8E40FC023BB001D4627</string>
+				<string>C63BD8E50FC023BB001D4627</string>
 				<string>1C9437FD063B20B00039CFAC</string>
 				<string>1C9437FE063B20B00039CFAC</string>
 				<string>1C9437FF063B20B00039CFAC</string>
@@ -543,7 +492,6 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>1C530D52069F1CE1000CFCEE</string>
-		<string>C63A33B70DFB57130082454A</string>
 		<string>/Users/julius/Code/qs/BezelHUD/BezelHUD.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -761,7 +709,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C530D52069F1CE1000CFCEE</string>
-				<string>C6F1BF840F8ED3DE00824AB6</string>
+				<string>C63BD8E60FC023BB001D4627</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

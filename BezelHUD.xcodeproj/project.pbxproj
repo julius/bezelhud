@@ -7,12 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7F35FF4007F9ACD90056051D /* QSCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F35FF3C07F9ACD90056051D /* QSCore.framework */; };
-		7F35FF4207F9ACD90056051D /* QSFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F35FF3E07F9ACD90056051D /* QSFoundation.framework */; };
 		8D1AC9700486D14A00FE50C9 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD92D38A0106425D02CA0E72 /* Cocoa.framework */; };
 		BB1A0E9C0BD588420049CB64 /* BezelHUD.nib in Resources */ = {isa = PBXBuildFile; fileRef = BB1A0E9B0BD588420049CB64 /* BezelHUD.nib */; };
-		BB79B8810C11A2AB002CF9B7 /* QSInterface.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7FFA8E9D0816CCCA00A858CD /* QSInterface.framework */; };
-		BB79B8820C11A2B2002CF9B7 /* QSEffects.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7FFA8E9C0816CCCA00A858CD /* QSEffects.framework */; };
 		BB79B99D0C11A9B6002CF9B7 /* BezelHUDPrefPane.nib in Resources */ = {isa = PBXBuildFile; fileRef = BB79B99C0C11A9B6002CF9B7 /* BezelHUDPrefPane.nib */; };
 		C616F2370D4D270B0073ABCB /* Button-GearMenu-White.png in Resources */ = {isa = PBXBuildFile; fileRef = C616F2290D4D270B0073ABCB /* Button-GearMenu-White.png */; };
 		C616F2380D4D270B0073ABCB /* QSIconLoader.m in Sources */ = {isa = PBXBuildFile; fileRef = C616F22B0D4D270B0073ABCB /* QSIconLoader.m */; };
@@ -28,6 +24,10 @@
 		C616F29E0D4D30F50073ABCB /* SFTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = C616F29D0D4D30F50073ABCB /* SFTableView.m */; };
 		C616F2A60D4D32570073ABCB /* QSTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = C616F2A50D4D32570073ABCB /* QSTableView.m */; };
 		C616F3790D4D3D100073ABCB /* ChildArrowWhite.png in Resources */ = {isa = PBXBuildFile; fileRef = C616F3780D4D3D100073ABCB /* ChildArrowWhite.png */; };
+		C63BD8B20FC02358001D4627 /* QSCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C63BD8AE0FC02358001D4627 /* QSCore.framework */; };
+		C63BD8B30FC02358001D4627 /* QSEffects.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C63BD8AF0FC02358001D4627 /* QSEffects.framework */; };
+		C63BD8B40FC02358001D4627 /* QSFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C63BD8B00FC02358001D4627 /* QSFoundation.framework */; };
+		C63BD8B50FC02358001D4627 /* QSInterface.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C63BD8B10FC02358001D4627 /* QSInterface.framework */; };
 		C68D69C30D42C9530039B79A /* BHBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = C68D69C20D42C9530039B79A /* BHBackgroundView.m */; };
 		C68D69DA0D42CD390039B79A /* Close Button.tif in Resources */ = {isa = PBXBuildFile; fileRef = C68D69D80D42CD390039B79A /* Close Button.tif */; };
 		C68D69DB0D42CD390039B79A /* Drop Down Arrow.tif in Resources */ = {isa = PBXBuildFile; fileRef = C68D69D90D42CD390039B79A /* Drop Down Arrow.tif */; };
@@ -52,12 +52,8 @@
 
 /* Begin PBXFileReference section */
 		32DBCF980370C29C00C91783 /* BezelHUD_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BezelHUD_Prefix.pch; sourceTree = "<group>"; };
-		7F35FF3C07F9ACD90056051D /* QSCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QSCore.framework; sourceTree = QSFrameworks; };
 		7F35FF3D07F9ACD90056051D /* QSEffects.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QSEffects.framework; sourceTree = QSFrameworks; };
-		7F35FF3E07F9ACD90056051D /* QSFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QSFoundation.framework; sourceTree = QSFrameworks; };
 		7F35FF3F07F9ACD90056051D /* QSInterface.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QSInterface.framework; sourceTree = QSFrameworks; };
-		7FFA8E9C0816CCCA00A858CD /* QSEffects.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QSEffects.framework; sourceTree = QSFrameworks; };
-		7FFA8E9D0816CCCA00A858CD /* QSInterface.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = QSInterface.framework; sourceTree = QSFrameworks; };
 		8D1AC9730486D14A00FE50C9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D1AC9740486D14A00FE50C9 /* BezelHUD.qsplugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BezelHUD.qsplugin; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB1A0E9B0BD588420049CB64 /* BezelHUD.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; path = BezelHUD.nib; sourceTree = "<group>"; };
@@ -87,6 +83,10 @@
 		C616F2A40D4D32570073ABCB /* QSTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QSTableView.h; sourceTree = "<group>"; };
 		C616F2A50D4D32570073ABCB /* QSTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QSTableView.m; sourceTree = "<group>"; };
 		C616F3780D4D3D100073ABCB /* ChildArrowWhite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ChildArrowWhite.png; sourceTree = "<group>"; };
+		C63BD8AE0FC02358001D4627 /* QSCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QSCore.framework; path = frameworks/QSCore.framework; sourceTree = "<group>"; };
+		C63BD8AF0FC02358001D4627 /* QSEffects.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QSEffects.framework; path = frameworks/QSEffects.framework; sourceTree = "<group>"; };
+		C63BD8B00FC02358001D4627 /* QSFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QSFoundation.framework; path = frameworks/QSFoundation.framework; sourceTree = "<group>"; };
+		C63BD8B10FC02358001D4627 /* QSInterface.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QSInterface.framework; path = frameworks/QSInterface.framework; sourceTree = "<group>"; };
 		C68D69C10D42C9530039B79A /* BHBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BHBackgroundView.h; sourceTree = "<group>"; };
 		C68D69C20D42C9530039B79A /* BHBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BHBackgroundView.m; sourceTree = "<group>"; };
 		C68D69D80D42CD390039B79A /* Close Button.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "Close Button.tif"; sourceTree = "<group>"; };
@@ -124,10 +124,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D1AC9700486D14A00FE50C9 /* Cocoa.framework in Frameworks */,
-				7F35FF4007F9ACD90056051D /* QSCore.framework in Frameworks */,
-				7F35FF4207F9ACD90056051D /* QSFoundation.framework in Frameworks */,
-				BB79B8810C11A2AB002CF9B7 /* QSInterface.framework in Frameworks */,
-				BB79B8820C11A2B2002CF9B7 /* QSEffects.framework in Frameworks */,
+				C63BD8B20FC02358001D4627 /* QSCore.framework in Frameworks */,
+				C63BD8B30FC02358001D4627 /* QSEffects.framework in Frameworks */,
+				C63BD8B40FC02358001D4627 /* QSFoundation.framework in Frameworks */,
+				C63BD8B50FC02358001D4627 /* QSInterface.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -171,11 +171,11 @@
 		2E58F364FFB232C311CA0CBA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				C63BD8AE0FC02358001D4627 /* QSCore.framework */,
+				C63BD8AF0FC02358001D4627 /* QSEffects.framework */,
+				C63BD8B00FC02358001D4627 /* QSFoundation.framework */,
+				C63BD8B10FC02358001D4627 /* QSInterface.framework */,
 				DD92D38A0106425D02CA0E72 /* Cocoa.framework */,
-				7F35FF3C07F9ACD90056051D /* QSCore.framework */,
-				7F35FF3E07F9ACD90056051D /* QSFoundation.framework */,
-				7FFA8E9C0816CCCA00A858CD /* QSEffects.framework */,
-				7FFA8E9D0816CCCA00A858CD /* QSInterface.framework */,
 				7FC20C8107FB741700FDD3CA /* Other Frameworks */,
 			);
 			name = Frameworks;
@@ -398,7 +398,11 @@
 					i386,
 				);
 				COPY_PHASE_STRIP = NO;
-				FRAMEWORK_SEARCH_PATHS = "$(QSFrameworks)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(QSFrameworks)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_1 = "\"$(SRCROOT)/frameworks\"";
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
@@ -421,7 +425,11 @@
 					i386,
 				);
 				COPY_PHASE_STRIP = YES;
-				FRAMEWORK_SEARCH_PATHS = "$(QSFrameworks)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(QSFrameworks)",
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/frameworks\"";
 				GCC_ENABLE_FIX_AND_CONTINUE = NO;
 				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
